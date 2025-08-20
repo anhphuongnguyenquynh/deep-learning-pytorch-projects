@@ -4,7 +4,7 @@ This repository is a collection of **Deep Learning application projects** using 
 
 ---
 
-## 📂 Project List
+## Project List
 
 ### 1. 🔒 Detecting Cybersecurity Threats (Binary Classification)
 - **Task**: Binary Classification - Detect and mitigate cyber threats whether an event is malicious (1) or benign (0)
