@@ -9,8 +9,8 @@ This repository is a collection of **Deep Learning application projects** using 
 ### 1. 🔒 Detecting Cybersecurity Threats (Binary Classification)
 - **Task**: Binary Classification - Detect and mitigate cyber threats whether an event is malicious (1) or benign (0)
 - **Dataset**: [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)
-- **Method**: Neural networks with BCELoss()
-- **Metric**: 
+- **Method**: Neural Networks with BCELoss()
+- **Metric**: Accuracy = Correct predictions/All predictions
 
 ---
 
