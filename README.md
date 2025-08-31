@@ -4,23 +4,31 @@ This repository is a collection of **Deep Learning application projects** using 
 
 ---
 
-## Project List
+## Projects List
 
 ### 1. 🔒 Detecting Cybersecurity Threats (Binary Classification)
 - **Task**: Binary Classification - Detect and mitigate cyber threats whether an event is malicious (1) or benign (0)
 - **Dataset**: [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)
 - **Method**: Neural Networks with BCELoss()
 - **Metric**: Accuracy = Correct predictions/All predictions
+- **Blog**: [My Substack blog and keytakeway]()
 
 ---
 
 ### 2. 👕 E-Commerce Clothing Classifier (Image Classification)
- 
+ - **Task**: Multiclass Image Classification - Detect clothing images belong to which categories (T-short, trousers, pullover,...)
+- **Dataset**: FashionMNIST
+- **Method**: Convolutional Neural Network
+- **Metric**: Precision and Recall
+- **Blog**: [My Substack blog and keytakeway]()
 
 ---
 
 ### 3. 🚦 Predicting Traffic Volume with PyTorch
-
+- **Task**: 
+- **Dataset**: 
+- **Method**: 
+- **Metric**: 
 
 ---
 
@@ -29,12 +37,12 @@ This repository is a collection of **Deep Learning application projects** using 
 
 ---
 
-### 5. 🩻 X-Ray Image Classification
+### 5. 🔤 Multi-Input OCR Character Classification
  
 
 ---
 
-### 6. 🔤 Multi-Input OCR Character Classification
+### 6. 🩻 X-Ray Image Classification
 
 
 ---
