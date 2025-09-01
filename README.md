@@ -11,7 +11,7 @@ This repository is a collection of **Deep Learning application projects** using 
 - **Dataset**: [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)
 - **Method**: Neural Networks with BCELoss()
 - **Metric**: Accuracy = Correct predictions/All predictions
-- **Blog**: [My Substack blog and keytakeway](https://open.substack.com/pub/quynhanhphuong/p/project-detect-cybersecurity-threats?r=1xb8sg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+- **Blog**: [My keytakeaway](https://open.substack.com/pub/quynhanhphuong/p/project-detect-cybersecurity-threats?r=1xb8sg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 ---
 
@@ -20,30 +20,23 @@ This repository is a collection of **Deep Learning application projects** using 
 - **Dataset**: FashionMNIST
 - **Method**: Convolutional Neural Network
 - **Metric**: Precision and Recall
-- **Blog**: [My Substack blog and keytakeway]()
+- **Blog**: [My keytakeaway]()
 
 ---
 
-### 3. 🚦 Predicting Traffic Volume with PyTorch
+### 3. 🚦 Predicting Electricity Consumption - Time series prediction
+- **Task**: Predict electricity consumption 
+- **Dataset**: 
+- **Method**: RNN, LSTM, GRU
+- **Metric**: MSE, RMSE
+- **Blog**: [My keytakeaway]()
+---
+
+### 4. ⚡ Predicting Traffic Volume with PyTorch
 - **Task**: 
 - **Dataset**: 
 - **Method**: 
 - **Metric**: 
-
----
-
-### 4. 📝 Service Desk Ticket Classification
- 
-
----
-
-### 5. 🔤 Multi-Input OCR Character Classification
- 
-
----
-
-### 6. 🩻 X-Ray Image Classification
-
 
 ---
 
