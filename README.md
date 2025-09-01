@@ -11,7 +11,7 @@ This repository is a collection of **Deep Learning application projects** using 
 - **Dataset**: [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)
 - **Method**: Neural Networks with BCELoss()
 - **Metric**: Accuracy = Correct predictions/All predictions
-- **Blog**: [My Substack blog and keytakeway]()
+- **Blog**: [My Substack blog and keytakeway](https://open.substack.com/pub/quynhanhphuong/p/project-detect-cybersecurity-threats?r=1xb8sg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 ---
 
