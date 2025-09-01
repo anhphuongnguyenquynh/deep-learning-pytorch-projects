@@ -24,7 +24,7 @@ This repository is a collection of **Deep Learning application projects** using 
 
 ---
 
-### 3. 🚦 Predicting Electricity Consumption - Time series prediction
+### 3. ⚡ Predicting Electricity Consumption - Time series prediction
 - **Task**: Predict electricity consumption 
 - **Dataset**: 
 - **Method**: RNN, LSTM, GRU
@@ -32,7 +32,7 @@ This repository is a collection of **Deep Learning application projects** using 
 - **Blog**: [My keytakeaway]()
 ---
 
-### 4. ⚡ Predicting Traffic Volume with PyTorch
+### 4. 🚦 Predicting Traffic Volume with PyTorch
 - **Task**: 
 - **Dataset**: 
 - **Method**: 
