@@ -10,33 +10,42 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 
 ## Projects List
 
-### 1. 🔒 Detecting Cybersecurity Threats (Binary Classification)
+### 1. 🔒 Binary Classification - Detecting Cybersecurity Threats
 - **Task**: Binary Classification - Detect and mitigate cyber threats whether an event is malicious (1) or benign (0)
 - **Dataset**: [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)
 - **Method**: Neural Networks with BCELoss()
 - **Metric**: Accuracy = Correct predictions/All predictions
-- **Blog**: [My keytakeaway](https://open.substack.com/pub/quynhanhphuong/p/project-detect-cybersecurity-threats?r=1xb8sg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+- **Link**: 
 
 ---
 
-### 2. 👕 E-Commerce Clothing Classifier (Image Classification)
+### 2. 👕 Image classification - clouds image
+ - **Task**: Multiclass Cloud Classification - Detect cloud images belong to which categories 
+- **Dataset**: 
+- **Method**: Convolutional Neural Network
+- **Metric**: Precision and Recall
+- **Link**: 
+
+---
+
+### 3. 👕 Image Classification - E-Commerce Clothing Classifier
  - **Task**: Multiclass Image Classification - Detect clothing images belong to which categories (T-short, trousers, pullover,...)
 - **Dataset**: FashionMNIST
 - **Method**: Convolutional Neural Network
 - **Metric**: Precision and Recall
-- **Blog**: [My keytakeaway]()
+- **Link**: 
 
 ---
 
-### 3. ⚡ Predicting Electricity Consumption - Time series prediction
+### 4. ⚡ Time series prediction - Predicting Electricity Consumption
 - **Task**: Predict electricity consumption 
 - **Dataset**: 
 - **Method**: RNN, LSTM, GRU
 - **Metric**: MSE, RMSE
-- **Blog**: [My keytakeaway]()
+- **Link**: [My keytakeaway]()
 ---
 
-### 4. 🚦 Predicting Traffic Volume with PyTorch
+### 5. 🚦 Time series prediction - Predicting Traffic Volume 
 - **Task**: 
 - **Dataset**: 
 - **Method**: 
