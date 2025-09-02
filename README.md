@@ -1,6 +1,10 @@
 # Deep Learning Projects with PyTorch
 
-This repository is a collection of **Deep Learning application projects** using **PyTorch**.  
+This repository is a collection of **Deep Learning application projects** using **PyTorch** I have learned through series 'Deep Learning with PyTorch' provided by DataCamp. 
+
+The main goal is to strengthen fundamental knowledge of Deep Learning, get familiar with PyTorch and apply into real-world use cases. The projects cover diverse input types: structured data, sequences, images, text using multiple deep learning models (CNN, RNN, LSTM, GRU, Transformers) to tackle a variety tasks such as classification, prediction,... 
+
+Along the way, applying real-world projects, tinkering with tensors, dealing with preprocessing data and evaluating helps me to learn a lot. Check my [mini project experiment on Substack blog](https://quynhanhphuong.substack.com/s/one-more-experiment) for more detailed experiments.
 
 ---
 
