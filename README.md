@@ -42,14 +42,22 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 - **Dataset**: 
 - **Method**: RNN, LSTM, GRU
 - **Metric**: MSE, RMSE
-- **Link**: [My keytakeaway]()
+- **Link**: 
 ---
 
 ### 5. 🚦 Time series prediction - Predicting Traffic Volume 
-- **Task**: 
+- **Task**: Predict traffic volume
 - **Dataset**: 
-- **Method**: 
+- **Method**: RNN, LSTM, GRU
 - **Metric**: 
+
+---
+### 6. 👩‍💼 Text multiclass classification - Customer Service text multiclass classification 
+- **Task**: Classify customer support ticket into 5 categories such as mortgage, credit card, money transfers, debt collection, etc.
+- **Dataset**: 
+- **Method**: CNN
+- **Metric**: Accuracy, Precision, Recall
+- **Link**:
 
 ---
 
