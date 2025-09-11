@@ -19,7 +19,7 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 
 ---
 
-### 2. 👕 Image classification - clouds image
+### 2. ☁️ Image classification - clouds image
  - **Task**: Multiclass Cloud Classification - Detect cloud images belong to which categories 
 - **Dataset**: 
 - **Method**: Convolutional Neural Network
