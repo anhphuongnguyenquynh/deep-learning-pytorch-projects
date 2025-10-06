@@ -8,56 +8,7 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 
 ---
 
-## Projects List
-
-### 1. 🔒 Binary Classification - Detecting Cybersecurity Threats
-- **Task**: Binary Classification - Detect and mitigate cyber threats whether an event is malicious (1) or benign (0)
-- **Dataset**: [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)
-- **Method**: Neural Networks with BCELoss()
-- **Metric**: Accuracy = Correct predictions/All predictions
-- **Link**: 
-
----
-
-### 2. ☁️ Image classification - clouds image
- - **Task**: Multiclass Cloud Classification - Detect cloud images belong to which categories 
-- **Dataset**: 
-- **Method**: Convolutional Neural Network
-- **Metric**: Precision and Recall
-- **Link**: 
-
----
-
-### 3. 👕 Image Classification - E-Commerce Clothing Classifier
- - **Task**: Multiclass Image Classification - Detect clothing images belong to which categories (T-short, trousers, pullover,...)
-- **Dataset**: FashionMNIST
-- **Method**: Convolutional Neural Network
-- **Metric**: Precision and Recall
-- **Link**: 
-
----
-
-### 4. ⚡ Time series prediction - Predicting Electricity Consumption
-- **Task**: Predict electricity consumption 
-- **Dataset**: 
-- **Method**: RNN, LSTM, GRU
-- **Metric**: MSE, RMSE
-- **Link**: 
----
-
-### 5. 🚦 Time series prediction - Predicting Traffic Volume 
-- **Task**: Predict traffic volume
-- **Dataset**: 
-- **Method**: RNN, LSTM, GRU
-- **Metric**: 
-
----
-### 6. 👩‍💼 Text multiclass classification - Customer Service text multiclass classification 
-- **Task**: Classify customer support ticket into 5 categories such as mortgage, credit card, money transfers, debt collection, etc.
-- **Dataset**: 
-- **Method**: CNN
-- **Metric**: Accuracy, Precision, Recall
-- **Link**:
+## Deep Learning basic and its application
 
 | **  Id ** | **  Types ** | **  Tag ** | **  Title ** | **  Description ** | **  Dataset ** | **  Methods/Models ** | **  Metrics ** | **  Results ** | **  Note ** |
 |---|---|---|---|---|---|---|---|---|---|
