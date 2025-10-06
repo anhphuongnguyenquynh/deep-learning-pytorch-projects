@@ -10,9 +10,9 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 
 ## Deep Learning basic and its application
 
-| **  Id ** | **  Types ** | **  Tag ** | **  Title ** | **  Description ** | **  Dataset ** | **  Methods/Models ** | **  Metrics ** | **  Results ** | **  Note ** |
+| **  Id ** | **  Data Types ** | **  Tag ** | **  Title ** | **  Description ** | **  Dataset ** | **  Methods/Models ** | **  Metrics ** | **  Results ** | **  Note ** |
 |---|---|---|---|---|---|---|---|---|---|
-|   1  |   Structured data  |   binaryclassification  |   Detecting Cybersecurity Threats  |   Classify whether a threat or not  |   [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)  |   Neural Networks with BCELoss()  |   Accuracy  |   0.9448  |   Done  |
+|   1  |   Structured data  |   Binary Classification  |   Detecting Cybersecurity Threats  |   Classify whether a threat or not  |   [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)  |   Neural Networks with BCELoss()  |   Accuracy  |   0.9448  |   Done  |
 |   2  |   Image  |   Image Classification  |   Clouds image classification  |   Classify cloud images into category  |   Cloud image  |   Convolutional Neural Network  |   Precision, Recall  |     |   Done  |
 |   3  |   Image  |   Multiclass Image Classification  |   E-commerce Clothing classifier  |   Classify clothing images into category  |   Clothing image  |   Convolutional Neural Network  |   Precision, Recall  |     |   Done  |
 |   4  |   Sequence data  |   Time series prediction  |   Predicting electricity consumption  |     |   Electricity Consumption  |   RNN, LSTM, GRU  |   MSE, RMSE  |     |   Done  |
