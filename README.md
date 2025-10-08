@@ -10,7 +10,7 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 
 ## Deep Learning basic and its application
 
-| **  Id ** | **  Data Types ** | **  Tag ** | **  Title ** | **  Description ** | **  Dataset ** | **  Methods/Models ** | **  Metrics ** | **  Results ** | **  Note ** |
+| **Id** | **Data Types** | **Tag** | **Title** | **Description** | **Dataset** | **Methods/Models** | **Metrics** | **Results** | **Note** |
 |---|---|---|---|---|---|---|---|---|---|
 |   1  |   Structured data  |   Binary Classification  |   Detecting Cybersecurity Threats  |   Classify whether a threat or not  |   [BETH dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset)  |   Neural Networks with BCELoss()  |   Accuracy  |   0.9448  |   Done  |
 |   2  |   Image  |   Image Classification  |   Clouds image classification  |   Classify cloud images into category  |   Cloud image  |   Convolutional Neural Network  |   Precision, Recall  |     |   Done  |
