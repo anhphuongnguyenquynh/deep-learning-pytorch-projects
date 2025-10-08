@@ -16,8 +16,8 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 |   2  |   Image  |   Image Classification  |   Clouds image classification  |   Classify cloud images into category  |   Cloud image  |   Convolutional Neural Network  |   Precision, Recall  |     |   Done  |
 |   3  |   Image  |   Multiclass Image Classification  |   E-commerce Clothing classifier  |   Classify clothing images into category  |   Clothing image  |   Convolutional Neural Network  |   Precision, Recall  |     |   Done  |
 |   4  |   Sequence data  |   Time series prediction  |   Predicting electricity consumption  |     |   Electricity Consumption  |   RNN, LSTM, GRU  |   MSE, RMSE  |     |   Done  |
-|   5  |   Sequence data  |   Time series prediction  |   Predicting traffic volume  |     |   Traffic volume by hour  |   RNN, LSTM, GRU  |   MSE, RMSE  |     |   In progress  |
-|   6  |   Text  |   Text Multiclass classification  |   Customer service text multiclass classification  |   Classify CS ticket into 5 categories |   Customer Support ticket  |   CNN  |   Accuracy, Precision, Recall  |     |   In progress  |
+|   5  |   Sequence data  |   Time series prediction  |   Predicting traffic volume  |     |   Traffic volume by hour  |   RNN, LSTM, GRU  |   MSE, RMSE  |     |   Done  |
+|   6  |   Text  |   Text Multiclass classification  |   Customer service text multiclass classification  |   Classify CS ticket into 5 categories |   Customer Support ticket  |   CNN  |   Accuracy, Precision, Recall  |     |   Done  |
 
 ---
 
