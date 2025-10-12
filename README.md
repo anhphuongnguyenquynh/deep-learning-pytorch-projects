@@ -18,7 +18,8 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 |   4  |   Sequence data  |   Time series prediction  |   Predicting electricity consumption  |     |   Electricity Consumption  |   RNN, LSTM, GRU  |   MSE, RMSE  |  0.04 0.2   |   Done  |
 |   5  |   Sequence data  |   Time series prediction  |   Predicting traffic volume  |     |   Traffic volume by hour  |   RNN, LSTM, GRU  |   MSE, RMSE  |  0.071 0.26   |   Done  |
 |   6  |   Text  |   Text Multiclass classification  |   Customer service text multiclass classification  |   Classify CS ticket into 5 categories |   Customer Support ticket  |   CNN  |   Accuracy, Precision, Recall  |  0.7892  0.7931  0.7892   |   Done  |
-|   7  |   Structured data  |   Regression  |   Concrete strength prediction  |   Predict concrete strength based on their attributes |   [Concrete Dataset](https://www.kaggle.com/datasets/zain280/concrete-data/data)  |   MLP  |   MSE  |     |   Done  |
+|   7  |   Structured data  |   Regression  |   Concrete strength prediction  |   Predict concrete strength based on their attributes |   [Concrete Dataset](https://www.kaggle.com/datasets/zain280/concrete-data/data)  |   MLP  |   MSE, RMSE  |   136  11.68  |   Done  |
+|   8  |   Text  |   Text classification  |   Sentiment Analysis using Fine-tuning BERT  |   Sentiment Analysis (Negative, Positive) |     |   MLP  |   MSE, RMSE  |   136  11.68  |   Sample done  |
 
 ---
 
