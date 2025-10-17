@@ -21,6 +21,15 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 |   7  |   Structured data  |   Regression  |   Concrete strength prediction  |   Predict concrete strength based on their attributes |   [Concrete Dataset](https://www.kaggle.com/datasets/zain280/concrete-data/data)  |   MLP  |   MSE, RMSE  |   136  11.68  |   Done  |
 |   8  |   Text  |   Text classification  |   Sentiment Analysis using Fine-tuning BERT  |   Sentiment Analysis (Negative, Positive) |     |   MLP  |   MSE, RMSE  |   136  11.68  |   Sample done  |
 
+## Advanced Deep Learning with fastai
+|**Id**|**Lesson objectives**|**Tag**|**Applications**|**Note**|
+|---|---|---|---|---|
+|-|-|-|-|-|
+
+---
+## References
+- [DataCamp PyTorch skill tracks](https://app.datacamp.com/learn/skill-tracks/deep-learning-in-python)
+- [Practical Deep Learning for Coders and Deep Learning Foundations to Stable Diffusion series](https://course.fast.ai/)
 ---
 
 ## ⚙️ Tech Stack
