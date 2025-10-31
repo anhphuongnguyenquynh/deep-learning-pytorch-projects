@@ -23,7 +23,6 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 |   9  |   Structured data  |   Regression  |   Road Incident Prediction  |   Predict Incident risk (from 0 to 1) based on characteristics of road |     |   Multi Layer Perceptron  |   MSE, RMSE  |     |   Done  |
 
 ## Advanced Deep Learning
-|**Id**|**Lesson objectives**|**Tag**|**Applications**|**Note**|
 
 
 
