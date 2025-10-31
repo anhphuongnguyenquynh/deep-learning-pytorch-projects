@@ -21,15 +21,24 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 |   7  |   Structured data  |   Regression  |   Concrete strength prediction  |   Predict concrete strength based on their attributes |   [Concrete Dataset](https://www.kaggle.com/datasets/zain280/concrete-data/data)  |   MLP  |   MSE, RMSE  |   136  11.68  |   Done  |
 |   8  |   Text  |   Text classification  |   Sentiment Analysis using Fine-tuning BERT  |   Sentiment Analysis (Negative, Positive) |     |   MLP  |   MSE, RMSE  |   136  11.68  |   Sample done  |
 
-## Advanced Deep Learning with fastai
+## Advanced Deep Learning
 |**Id**|**Lesson objectives**|**Tag**|**Applications**|**Note**|
-|---|---|---|---|---|
+|1|AutoEncoder|---|Image Compression|---|
 |-|-|-|-|-|
 
+## Computer Vision topic
+
+## Natural Language Processing topic
+
+## Techniques for efficient AI model training with PyTorch
+PyTorch Lightning. Model Debugging. Model Deploying
 ---
 ## References
 - [DataCamp PyTorch skill tracks](https://app.datacamp.com/learn/skill-tracks/deep-learning-in-python)
 - [Practical Deep Learning for Coders and Deep Learning Foundations to Stable Diffusion series](https://course.fast.ai/)
+- [IBM AI Engineering with Python, PyTorch & TensorFlow Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+- [PyTorch Ultimate 2024 - From Basics to Cutting-Edge](https://www.coursera.org/specializations/packt-pytorch-ultimate-2024---from-basics-to-cutting-edge)
+- [Computer Vision Specialization by Tom Yeh Professor](https://www.coursera.org/specializations/computer-vision-cu)
 ---
 
 ## ⚙️ Tech Stack
