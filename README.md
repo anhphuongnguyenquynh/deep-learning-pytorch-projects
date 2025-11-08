@@ -23,7 +23,15 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 |   9  |   Structured data  |   Regression  |   Road Incident Prediction  |   Predict Incident risk (from 0 to 1) based on characteristics of road |     |   Multi Layer Perceptron  |   MSE, RMSE  |     |   Done  |
 
 ## Advanced Deep Learning
-
+| **Id** | **Tags** | **Topic** | **Data types** | **Applications** | **Dataset** | **Metric and Results** | **Status** | **Note** |
+|---|---|---|---|---|---|---|---|---|
+| 1 |  | Auto Encoder | Image | Image Compression |  |  | Done |  |
+| 1.1 |  | Auto Encoder | Image | Denoise Image |[Kaggle Denoise Dataset](https://www.kaggle.com/code/jesucristo/super-resolution-demo-swin2sr-official) |  | Done |  |
+| 2 |  | Sequence to Sequence |  | Time Series Prediction |  |  |  | machinetranslation, imagecaptioning, textsummarization, time-series prediction, code generation |
+| 3 |  | Generative Adversarial Networks (GAN)s fundamentals |  |  |  |  |  |  |
+| 4 |  | Graph Neural Networks |  |  |  |  |  |  |
+| 5 | #computervison  | Vision Transformers |  |  |  |  |  |  |
+| 6 |  | Semi-Supervised Learning |  | Text Classification with pseudo-labeling |  |  |  |  |
 
 
 ## Techniques for efficient AI model training with PyTorch
