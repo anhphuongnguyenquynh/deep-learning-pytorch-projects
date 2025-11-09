@@ -30,7 +30,7 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 | 2 |  | Inception |  | Image Classification |  |  | In progress |  |
 | 3 |  | Sequence to Sequence |  | Time Series Prediction |  |  |  | machinetranslation, imagecaptioning, textsummarization, time-series prediction, code generation |
 | 4 |  | Generative Adversarial Networks (GAN)s fundamentals |  |  |  |  |  |  |
-| 5 |  | Graph Neural Networks |  |  |  |  |  |  |
+| 5 |  | Graph Neural Networks |  |  | PubMed |  | Done |  |
 | 6 | #computervison  | Vision Transformers |  |  |  |  |  |  |
 | 7 |  | Semi-Supervised Learning |  | Text Classification with pseudo-labeling |  |  |  |  |
 
