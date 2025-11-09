@@ -27,11 +27,12 @@ Along the way, applying real-world projects, tinkering with tensors, dealing wit
 |---|---|---|---|---|---|---|---|---|
 | 1 |  | Auto Encoder | Image | Image Compression |  |  | Done |  |
 | 1.1 |  | Auto Encoder | Image | Denoise Image |[Kaggle Denoise Dataset](https://www.kaggle.com/code/jesucristo/super-resolution-demo-swin2sr-official) |  | Done |  |
-| 2 |  | Sequence to Sequence |  | Time Series Prediction |  |  |  | machinetranslation, imagecaptioning, textsummarization, time-series prediction, code generation |
-| 3 |  | Generative Adversarial Networks (GAN)s fundamentals |  |  |  |  |  |  |
-| 4 |  | Graph Neural Networks |  |  |  |  |  |  |
-| 5 | #computervison  | Vision Transformers |  |  |  |  |  |  |
-| 6 |  | Semi-Supervised Learning |  | Text Classification with pseudo-labeling |  |  |  |  |
+| 2 |  | Inception |  | Image Classification |  |  | In progress |  |
+| 3 |  | Sequence to Sequence |  | Time Series Prediction |  |  |  | machinetranslation, imagecaptioning, textsummarization, time-series prediction, code generation |
+| 4 |  | Generative Adversarial Networks (GAN)s fundamentals |  |  |  |  |  |  |
+| 5 |  | Graph Neural Networks |  |  |  |  |  |  |
+| 6 | #computervison  | Vision Transformers |  |  |  |  |  |  |
+| 7 |  | Semi-Supervised Learning |  | Text Classification with pseudo-labeling |  |  |  |  |
 
 
 ## Techniques for efficient AI model training with PyTorch
